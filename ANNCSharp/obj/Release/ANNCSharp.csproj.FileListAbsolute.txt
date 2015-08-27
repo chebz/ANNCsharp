@@ -1,0 +1,9 @@
+C:\Users\Misha\Documents\GameProjects\Misc\ANNCSharp\ANNCSharp\bin\Release\ANNCSharp.dll
+C:\Users\Misha\Documents\GameProjects\Misc\ANNCSharp\ANNCSharp\bin\Release\ANNCSharp.pdb
+C:\Users\Misha\Documents\GameProjects\Misc\ANNCSharp\ANNCSharp\bin\Release\GeneticAlgorithm.dll
+C:\Users\Misha\Documents\GameProjects\Misc\ANNCSharp\ANNCSharp\bin\Release\Utils.dll
+C:\Users\Misha\Documents\GameProjects\Misc\ANNCSharp\ANNCSharp\bin\Release\GeneticAlgorithm.pdb
+C:\Users\Misha\Documents\GameProjects\Misc\ANNCSharp\ANNCSharp\bin\Release\Utils.pdb
+C:\Users\Misha\Documents\GameProjects\Misc\ANNCSharp\ANNCSharp\obj\Release\ANNCSharp.csprojResolveAssemblyReference.cache
+C:\Users\Misha\Documents\GameProjects\Misc\ANNCSharp\ANNCSharp\obj\Release\ANNCSharp.dll
+C:\Users\Misha\Documents\GameProjects\Misc\ANNCSharp\ANNCSharp\obj\Release\ANNCSharp.pdb

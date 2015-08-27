@@ -1,0 +1,8 @@
+C:\Users\Misha\Documents\GameProjects\Misc\ANNCSharp\Utils\bin\Debug\Utils.dll
+C:\Users\Misha\Documents\GameProjects\Misc\ANNCSharp\Utils\bin\Debug\Utils.pdb
+C:\Users\Misha\Documents\GameProjects\Misc\ANNCSharp\Utils\obj\Debug\Utils.dll
+C:\Users\Misha\Documents\GameProjects\Misc\ANNCSharp\Utils\obj\Debug\Utils.pdb
+C:\Users\Misha\Documents\GameProjects\Misc\ANNUnitySimulation\Assets\Utils.dll
+C:\Users\Misha\Documents\GameProjects\Misc\ANNUnitySimulation\Assets\Utils.pdb
+C:\Users\Misha\Documents\GameProjects\Misc\ANNUnitySimulation\Assets\Scripts\Lib\Utils.dll
+C:\Users\Misha\Documents\GameProjects\Misc\ANNUnitySimulation\Assets\Scripts\Lib\Utils.pdb

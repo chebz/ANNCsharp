@@ -1,0 +1,12 @@
+C:\Users\Misha\Documents\GameProjects\Misc\ANNCSharp\NNTester\bin\Debug\NNTester.exe.config
+C:\Users\Misha\Documents\GameProjects\Misc\ANNCSharp\NNTester\bin\Debug\NNTester.exe
+C:\Users\Misha\Documents\GameProjects\Misc\ANNCSharp\NNTester\bin\Debug\NNTester.pdb
+C:\Users\Misha\Documents\GameProjects\Misc\ANNCSharp\NNTester\bin\Debug\ANNCSharp.dll
+C:\Users\Misha\Documents\GameProjects\Misc\ANNCSharp\NNTester\bin\Debug\GeneticAlgorithm.dll
+C:\Users\Misha\Documents\GameProjects\Misc\ANNCSharp\NNTester\bin\Debug\Utils.dll
+C:\Users\Misha\Documents\GameProjects\Misc\ANNCSharp\NNTester\bin\Debug\ANNCSharp.pdb
+C:\Users\Misha\Documents\GameProjects\Misc\ANNCSharp\NNTester\bin\Debug\GeneticAlgorithm.pdb
+C:\Users\Misha\Documents\GameProjects\Misc\ANNCSharp\NNTester\bin\Debug\Utils.pdb
+C:\Users\Misha\Documents\GameProjects\Misc\ANNCSharp\NNTester\obj\Debug\NNTester.csprojResolveAssemblyReference.cache
+C:\Users\Misha\Documents\GameProjects\Misc\ANNCSharp\NNTester\obj\Debug\NNTester.exe
+C:\Users\Misha\Documents\GameProjects\Misc\ANNCSharp\NNTester\obj\Debug\NNTester.pdb

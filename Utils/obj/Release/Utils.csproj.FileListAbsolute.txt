@@ -1,0 +1,4 @@
+C:\Users\Misha\Documents\GameProjects\Misc\ANNCSharp\Utils\bin\Release\Utils.dll
+C:\Users\Misha\Documents\GameProjects\Misc\ANNCSharp\Utils\bin\Release\Utils.pdb
+C:\Users\Misha\Documents\GameProjects\Misc\ANNCSharp\Utils\obj\Release\Utils.dll
+C:\Users\Misha\Documents\GameProjects\Misc\ANNCSharp\Utils\obj\Release\Utils.pdb

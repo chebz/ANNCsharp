@@ -1,0 +1,5 @@
+*.vsp
+*.psess
+*.suo
+*\bin\
+*\obj\

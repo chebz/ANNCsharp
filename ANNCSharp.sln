@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ANNCSharp", "ANNCSharp\ANNCSharp.csproj", "{F3229CA2-4828-4C91-910F-22F9920DE00C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeneticAlgorithm", "GeneticAlgorithm\GeneticAlgorithm.csproj", "{C348D61B-C076-4003-9CD3-F0F3E4AC051F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utils", "Utils\Utils.csproj", "{03918BD9-2F0D-41BD-BE2B-35A61CE8B48D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NNTester", "NNTester\NNTester.csproj", "{EC0BACE3-BEBF-4069-AAA0-792BDDEA729F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3229CA2-4828-4C91-910F-22F9920DE00C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3229CA2-4828-4C91-910F-22F9920DE00C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3229CA2-4828-4C91-910F-22F9920DE00C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3229CA2-4828-4C91-910F-22F9920DE00C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C348D61B-C076-4003-9CD3-F0F3E4AC051F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C348D61B-C076-4003-9CD3-F0F3E4AC051F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C348D61B-C076-4003-9CD3-F0F3E4AC051F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C348D61B-C076-4003-9CD3-F0F3E4AC051F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03918BD9-2F0D-41BD-BE2B-35A61CE8B48D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03918BD9-2F0D-41BD-BE2B-35A61CE8B48D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03918BD9-2F0D-41BD-BE2B-35A61CE8B48D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03918BD9-2F0D-41BD-BE2B-35A61CE8B48D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC0BACE3-BEBF-4069-AAA0-792BDDEA729F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC0BACE3-BEBF-4069-AAA0-792BDDEA729F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC0BACE3-BEBF-4069-AAA0-792BDDEA729F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC0BACE3-BEBF-4069-AAA0-792BDDEA729F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+EndGlobal

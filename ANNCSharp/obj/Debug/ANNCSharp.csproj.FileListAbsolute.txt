@@ -1,0 +1,13 @@
+C:\Users\Misha\Documents\GameProjects\Misc\ANNCSharp\ANNCSharp\bin\Debug\ANNCSharp.dll
+C:\Users\Misha\Documents\GameProjects\Misc\ANNCSharp\ANNCSharp\bin\Debug\ANNCSharp.pdb
+C:\Users\Misha\Documents\GameProjects\Misc\ANNCSharp\ANNCSharp\obj\Debug\ANNCSharp.csprojResolveAssemblyReference.cache
+C:\Users\Misha\Documents\GameProjects\Misc\ANNCSharp\ANNCSharp\obj\Debug\ANNCSharp.dll
+C:\Users\Misha\Documents\GameProjects\Misc\ANNCSharp\ANNCSharp\obj\Debug\ANNCSharp.pdb
+C:\Users\Misha\Documents\GameProjects\Misc\ANNCSharp\ANNCSharp\bin\Debug\GeneticAlgorithm.dll
+C:\Users\Misha\Documents\GameProjects\Misc\ANNCSharp\ANNCSharp\bin\Debug\Utils.dll
+C:\Users\Misha\Documents\GameProjects\Misc\ANNCSharp\ANNCSharp\bin\Debug\GeneticAlgorithm.pdb
+C:\Users\Misha\Documents\GameProjects\Misc\ANNCSharp\ANNCSharp\bin\Debug\Utils.pdb
+C:\Users\Misha\Documents\GameProjects\Misc\ANNUnitySimulation\Assets\ANNCSharp.dll
+C:\Users\Misha\Documents\GameProjects\Misc\ANNUnitySimulation\Assets\ANNCSharp.pdb
+C:\Users\Misha\Documents\GameProjects\Misc\ANNUnitySimulation\Assets\Scripts\Lib\ANNCSharp.dll
+C:\Users\Misha\Documents\GameProjects\Misc\ANNUnitySimulation\Assets\Scripts\Lib\ANNCSharp.pdb
